@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The chef-repo
 ===============
 All installations require a central workspace known as the chef-repo. This is a place where primitive objects--cookbooks, roles, environments, data bags, and chef-repo configuration files--are stored and managed.
@@ -29,3 +30,9 @@ Roles provide logical grouping of cookbooks and other roles. A sample role can b
 Getting Started
 -------------------------
 Now that you have the chef-repo ready to go, check out [Learn Chef](https://learnchef.opscode.com/quickstart/workstation-setup/) to proceed with your workstation setup. If you have any questions about Enterprise Chef you can always ask [our support team](https://www.opscode.com/support/tickets/new) for a helping hand.
+=======
+chef-starter-kit
+================
+
+Project to follow opscode's tutorial. Just testing different things
+>>>>>>> b5e0e9642bba9042b6a792af02e5ecb981df9045

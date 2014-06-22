@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chef
 .chef/*.pem
 .chef/encrypted_data_bag_secret
@@ -50,3 +51,14 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
+=======
+.vagrant
+/cookbooks
+
+# Bundler
+bin/*
+.bundle/*
+
+.kitchen/
+.kitchen.local.yml
+>>>>>>> b5e0e9642bba9042b6a792af02e5ecb981df9045
